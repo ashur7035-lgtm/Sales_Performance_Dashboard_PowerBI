@@ -7,4 +7,4 @@
 - Loaded data successfully in Power Query Editor
 
 ### Screenshot:
-![Day 1 Data Loaded](Screenshots/Day1_Data_Loaded.png)
+[Day 1 Data Loaded](Screenshots/Day1_Data_Loaded.png)
