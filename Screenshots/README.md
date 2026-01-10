@@ -8,3 +8,17 @@
 
 ### Screenshot:
 [Day 1 Data Loaded](Day1_Data_Loaded.png)
+
+## Day 2 – Data Cleaning & DAX Basics
+
+- Cleaned the dataset using Power Query
+- Removed null values and renamed columns
+- Created DAX measures:
+  - Total Sales
+  - Total Profit
+  - Total Quantity
+- Designed KPI cards for key business metrics
+
+### Screenshot:
+[Day 2 Data Cleaning & DAX](Day2_KPI_Card.png)
+[Day 2 Data Cleaning & DAX](Day2_DAX_Measures.png)
