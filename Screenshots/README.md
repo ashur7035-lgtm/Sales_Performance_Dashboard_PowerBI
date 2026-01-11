@@ -38,4 +38,4 @@
 
 ### Screenshot:
 [Day 3 Charts & Visual Analysis
-](Day_3_Visual_Charts_&_Analysis.png)
+](Day3_Visual_Charts_&_Analysis.png)
