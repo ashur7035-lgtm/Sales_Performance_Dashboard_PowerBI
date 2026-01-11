@@ -22,3 +22,20 @@
 ### Screenshot:
 [Day 2 Data Cleaning & DAX](Day2_KPI_Card.png)
 [Day 2 Data Cleaning & DAX](Day2_DAX_Measures.png)
+
+## Day 3 – Charts & Visual Analysis
+
+### Visuals Created
+- Bar Chart: Sales by Region
+- Column Chart: Sales by Product
+- Line Chart: Sales Trend (Date-wise)
+- Table: Salesperson Performance
+
+### Formatting
+- Data labels enabled
+- Titles added to all visuals
+- Proper sorting applied
+
+### Screenshot:
+[Day 3 Charts & Visual Analysis
+](Day_3_Visual_Charts_&_Analysis.png)
