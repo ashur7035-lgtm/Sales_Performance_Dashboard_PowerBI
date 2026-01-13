@@ -39,3 +39,11 @@
 ### Screenshot:
 [Day 3 Charts & Visual Analysis
 ](Day3_Visual_Charts_&_Analysis.png)
+
+## Day 4 – Slicers & Interactivity
+
+• Implemented Region, Product, Salesperson, and Date slicers
+• Placed slicers on a separate page to avoid dashboard clutter
+• Used Sync Slicers to apply filters across multiple report pages
+• Enabled dynamic, user-driven analysis without altering visuals
+
