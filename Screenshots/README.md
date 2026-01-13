@@ -50,3 +50,15 @@
 ### Screenshot:
 [Day 4 Slicers & Interactivity
 ](Day4_Slicer_Page.png)
+
+## Day 5 – KPI Cards & Business Insights
+
+- Created KPI cards for Total Sales, Total Profit, and Profit Margin using DAX
+- Implemented Profit Margin calculation using DIVIDE function
+- Identified best performing region based on total sales
+- Identified highest selling product for business insights
+- Insights dynamically update based on applied slicers.
+
+  ### Screenshot:
+[Day 5 – KPI Cards & Business Insights](Day5_KPI_Insights.png)
+
