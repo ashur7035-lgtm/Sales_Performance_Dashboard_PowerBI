@@ -42,8 +42,11 @@
 
 ## Day 4 – Slicers & Interactivity
 
-• Implemented Region, Product, Salesperson, and Date slicers
-• Placed slicers on a separate page to avoid dashboard clutter
-• Used Sync Slicers to apply filters across multiple report pages
-• Enabled dynamic, user-driven analysis without altering visuals
+- Implemented Region, Product, Salesperson, and Date slicers
+- Placed slicers on a separate page to avoid dashboard clutter
+- Used Sync Slicers to apply filters across multiple report pages
+- Enabled dynamic, user-driven analysis without altering visuals
 
+### Screenshot:
+[Day 4 Slicers & Interactivity
+](Day4_Slicer_Page.png)
