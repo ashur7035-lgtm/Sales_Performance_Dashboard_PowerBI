@@ -1,4 +1,3 @@
-Power BI (.pbix) project files for the Sales Performance Dashboard.
 # Power BI Project Files
 
 This folder contains the core Power BI (.pbix) file for the **Sales Performance Dashboard** project.
