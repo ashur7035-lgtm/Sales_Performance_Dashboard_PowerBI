@@ -68,7 +68,7 @@ Sales-Performance-Dashboard-PowerBI/
 ---
 
 ## 📸 Dashboard Preview
-[Final Dashboard](Day6_Final_Dashboard.png)
+[Final Dashboard](Screenshots/Day6_Final_Dashboard.png)
 
 ---
 
