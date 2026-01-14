@@ -8,7 +8,7 @@ It provides business-ready insights through KPIs, interactive slicers, and visua
 
 ## 📂 Files Included
 - **Sales_Performance_Dashboard.pbix**  
-  → Main Power BI report file containing:
+  # Main Power BI report file containing:
   - KPI Cards (Total Sales, Total Profit, Profit Margin)
   - Region, Product, Date, and Salesperson slicers
   - Sales trend, region-wise and product-wise analysis
