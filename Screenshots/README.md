@@ -62,3 +62,15 @@
   ### Screenshot:
 [Day 5 – KPI Cards & Business Insights](Day5_KPI_Insights.png)
 
+## Day 6 – Final Dashboard Design
+
+- Final dashboard layout created
+- KPI cards placed at the top
+- Slicers aligned on the left
+- Charts positioned in the center
+- Table added at the bottom for detailed view
+- Light theme with consistent color usage applied
+
+### Final Dashboard Preview
+[Final Dashboard](Day6_Final_Dashboard.png)
+
