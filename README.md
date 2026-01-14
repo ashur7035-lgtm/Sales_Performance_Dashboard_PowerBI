@@ -5,6 +5,7 @@
 An interactive Power BI dashboard analyzing sales performance across regions,
 products, and salespersons. The project focuses on KPI tracking, trend analysis,
 and business insights using a clean executive-level layout.
+
 **Time Period:** January 2024 – October 2024
 
 ---
@@ -48,11 +49,11 @@ Sales-Performance-Dashboard-PowerBI/
 
 ## 📅 Project Progress
 
-* Day 1: GitHub repository created and README added
-* Day 2: Data cleaning and DAX measures
-* Day 3: Visualizations
+* Day 1: Dataset Creation & Import
+* Day 2: Data cleaning and DAX Basics
+* Day 3: Charts & Visual Analysis
 * Day 4: Slicers and interactivity
-* Day 5: KPI cards
+* Day 5: KPI cards & Business Insights
 * Day 6: Final dashboard design
 * Day 7: Documentation and final upload
 
